@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1387380236 source:c:\users\zéta520\desktop\projet tri\table.c
+	<stdio.h>
+	"table.h"
+	<conio.h>
+	<malloc.h>
+
+1387380236 c:\users\zéta520\desktop\projet tri\table.h
+
+1387380435 source:c:\users\zéta520\desktop\projet tri\abr.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"abr.h"
+
+1387380435 c:\users\zéta520\desktop\projet tri\abr.h
+
+1387380929 source:c:\users\zéta520\desktop\projet tri\tas.c
+	<stdio.h>
+	<stdlib.h>
+	"tas.h"
+
+1387380573 c:\users\zéta520\desktop\projet tri\tas.h
+
+1387380817 source:c:\users\zéta520\desktop\projet tri\list.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"list.h"
+
+1387380817 c:\users\zéta520\desktop\projet tri\list.h
+
+1387382136 source:c:\users\zéta520\desktop\projet tri\avl.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"avl.h"
+
+1387381214 c:\users\zéta520\desktop\projet tri\avl.h
+
